@@ -21,7 +21,7 @@ NavBar.propTypes = {
 const menus = [
     {
         name: 'Home',
-        to: '/ReactAppEcom1/',
+        to: '/ReactAppEcom2/',
         exact: true,
     },
     {
