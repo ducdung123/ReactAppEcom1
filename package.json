@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ducdung123.github.io/ReactAppEcom1",
+  "homepage": "https://ducdung123.github.io/ReactAppEcom1/",
   "name": "ls04",
   "version": "0.1.0",
   "private": true,
@@ -45,7 +45,6 @@
     ],
     "development": [
       "last 1 chrome version",
-      "last 1 firefox version",
       "last 1 safari version"
     ]
   },
