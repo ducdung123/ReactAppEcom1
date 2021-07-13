@@ -6,7 +6,7 @@ import ProductView from './pages/ProductView/ProductView';
 import Cart from './pages/Cart/Cart';
 const routes = [
     {
-        path: '/ReactAppEcom2/',
+        path: '/ReactAppEcom1/',
         exact: true,
         main: () => { return <HomePage /> }
     },
